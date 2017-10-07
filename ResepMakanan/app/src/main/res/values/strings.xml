@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">Resep Makanan</string>
+    <string-array name="recipe_name">
+        <item>Opor Ayam Kol</item>
+        <item>Selat Solo</item>
+        <item>Sayur Lodeh</item>
+        <item>Pindang Kudus</item>
+        <item>Garang Asem Ayam Kampung</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Opor ayam yang populer dimasak saat lebaran biasa dimakan dengan ketupat ini terdiri dari ayam
+            yang dimasak dengan santan dan tambahan sayur kol agar lebih lezat.</item>
+        <item>Selat solo adalah sebuah hidangan khas Jawa yang memiliki pengaruh hidangan Eropa dan berasal dari kota Solo, Jawa Tengah.</item>
+        <item>Sayur lodeh adalah masakan sayur yang berkuah santan khas Indonesia, terutama di daerah Jawa Tengah.
+        Sayur lodeh yang enak dan gurih ini bisa menjadi pilihan untuk anda jika anda bosan dengan sayur yang itu-itu saja.</item>
+        <item>Nasi Pindang adalah masakan yang berupa nasi dan daging disajikan dengan kuah pindang dan daun melinjo atau daun so.</item>
+        <item>Perpaduan rasa gurih nya santan, pedas nya cabe hijau dan merah plus
+            asam nya buah belimbing pasti membuat penikmat makanan akan terus mencari salah satu macam variasi masakan ayam satu ini.</item>
+    </string-array>
+    <string name="bahan_opor">
+        \t1/2 kg ayam\n
+        \t3 lembar kol (potong potong)\n
+        \t1 helai daun seledri\n
+        \tsecukupnya garam\n
+        \tsecukupnya gula\n
+        \tsecukupnya air\n
+        \tsecukupnya minyak goreng\n
+        \t500 ml santan\n
+        \t3 cm lengkuas\n
+        \t2 lembar daun jeruk\n
+        \tbumbu halus :\n
+        \t8 siung bawang merah\n
+        \t4 siung bawang putih\n
+        \t3 buah kemiri\n
+        \t1/4 sendok teh merica\n
+        \tsedikit pala\n </string>
+    <string name="langkah_opor">
+        \t1. Presto ayam 5 menit\n
+        \t2. Goreng bumbu, kemudian haluskan\n
+        \t3. Masak kol hingga layu kemudian masukkan ayam yang sudah direbus\n
+        \t4. Masukkan bumbu halus\n
+        \t5. Setelah mendidih masukkan daun seledri, daun jeruk dan lengkuas\n
+        \t6. Masukkan santan, tambahkan garam dan gula (test rasa)\n
+        \t7. Setelah mendidih siap untuk dihidangkan\n</string>
+    <string name="bahan_lodeh">
+        \t1 bh labu siam bersihkan, potong kotak2\n
+        \t1 bh wortel bersihkan, iris kcl2\n
+        \t1 bh jagung bersihkan potong2\n
+        \tsedikit kol iris2\n
+        \t3 gls air\n
+        \t2 sachet santan\n
+        \t1 ibu jari langkuas, 2lbr daun salam, 2bh sereh ambl putihnya\n
+        \tsecukupnya garam gula\n
+        \tBumbu halus:\n
+        \t4 bh bw merah\n
+        \t3 bh bw putih\n
+        \t1 sdt ebi kering\n
+        \t3 bh kemiri\n
+        \tsejumput garam\n
+    </string>
+    <string name="langkah_lodeh">
+        \t1. Rebus air sampai mendidih masukkan jagung wortel tg sampai jagung matang\n
+        \t2. Lalu masukkan labu dan kol, aduk2\n
+        \t3. Tambahkan santan dan bumbu halus serta langkuas, sereh dan salam, aduk2\n
+        \t4. Tambahkan garam gula, aduk2 jgn sampai santan pecah, lalu cek rasa sdh ckp matikan kompor, selesai dah\n
+    </string>
+    <string name="bahan_selad">
+        \t1/2 biji polo\n
+        \t5 siung bawang putih\n
+        \tsejumput asam jawa\n
+        \t3 jari gula jawa\n
+        \t1 sdm gula pasir\n
+        \t2 sdm kecap manis\n
+        \t1 sdm kecap asin\n
+        \tsejumput garam\n
+        \t1 liter kaldu sapi\n
+        \t1 ons buncis\n
+        \t3 buah wortel ukuran besar\n
+        \t4 buah kentang ukuran besar\n
+        \t2 buah tomat\n
+        \t2 buah timun muda\n
+        \tsecukupnya bawang goreng\n
+        \tbila perlu cabai\n
+        \tgalantin (daging giling)\n
+        \tatau bisa juga diganti daging sapi hasil rebusan kaldu\n
+        \tbila ada lebih enak pakai selada\n
+    </string>
+    <string name="langkah_selad">
+        \t1. Rebus daging ambil kaldu dan dagingnya juga bisa dipakai sebagai pengganti galantin\n
+        \t2. Masukkan polo bubuk, bawang putih yg sdh di haluskan ke dalam kaldu\n
+        \t3. Masukkan kecap, gula, garam, asam jawa. Matikan kompor\n
+        \t4. Rebus buncis, wortel. Goreng kentang\n
+        \t5. Potong daging / galantin\n
+        \t6. Potong timun, tomat bisa juga pakai bawang bombay\n
+        \t7. Bahan siap disusun sesuai selera\n
+    </string>
+    <string name="bahan_garang">
+        \t500 gram ayam kampung potong2, cuci bersih dg jeruk nipis, garam\n
+        \t7 siung bawang putih\n
+        \t5 siung bawang merah\n
+        \tsecukupnya belimbing wuluh\n
+        \tsecukupnya tomat ijo\n
+        \t1 sachet santan kara\n
+        \tgaram\n
+        \tgula pasir\n
+        \tsecukupnya air\n
+        \tdaun salam\n
+        \tdaun pisang untuk membungkus\n
+        \ttusuk gigi\n
+    </string>
+    <string name="langkah_garang">
+        \t1. Siapkan bahan2. Semua bumbu di potong2\n
+        \t2. Panaskan 2 sdm minyak goreng, tumis ayam sampai berubah warna, buang air nya, tiriskan\n
+        \t3. Tumis bumbu bawang merah, putih, sampai harum, masukkan tumisan ayam. Masukkan air, santan, beri bumbu,
+        garam gula pasir, kaldu bubuk (optional) tes rasa. Matikan api\n
+        \t4. Ambil 1 lembar daun pisang, selipin 1 lembar plastik, timpa 1 daun pisang lagi.
+        Taruh 1 lembar daun salam, beri ayam + kuah + irisan cabe + potongan belimbing wuluh, tomat ijo\n
+        \t5. Bungkus lalu semat dg tusuk gigi, kukus di dandang selama 1 jam. Sebelumnya dandang sdh di panaskan\n
+    </string>
+    <string name="bahan_pindang">
+        \t250 gram daging has atau empal\n
+        \tdaging sandung lamur atau jeroan sapi sesuai selera 250 gram\n
+        \tbumbu halus:\n\n
+        \t5 siung bawang merah\n
+        \t5 siung bawang putih\n
+        \t5 butir kemiri\n
+        \tkluwek 4-5 buah direndam air panas\n
+        \t1 ruas jari kunyit\n
+        \t1 ruas jari jahe\n
+        \t1 sendok makan ketumbar\n
+        \t1 sendok teh merica\n
+        \t1 ruas jari kencur\n
+        \t1 butir gula jawa\n
+        \tsesuai selera daun melinjo muda\n
+        \tdaun salam,lengkuas,batang serai dan garam\n
+    </string>
+    <string name="langkah_pindang">
+        \t1. Haluskan bumbu hingga halus,tumis bersama daun salam lengkuas dan batang serai hingga wangi\n
+        \t2. Masukkan daging dan jeroan(rebus dahulu terpisah) tambah air 10 gelas,gula jawa lalu masak hingga daging empuk\n
+        \t3. Setelah mendidih masukkan garam,cicip sesuaikan selera\n
+        \t4. Terakhir masukkan daun melinjo dan taburan bawang goreng\n
+    </string>
+</resources>
