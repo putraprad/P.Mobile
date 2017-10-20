@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Penampil Kode Sumber Website</string>
+    <string-array name="protocol">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
